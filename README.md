@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p style="display:flex;justify-content:end;">
   <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
 </p>
@@ -41,10 +40,8 @@ avoid_url_flgをTrueにすると、前回のデータの差分のみを取得で
 ```python: python
 avoid_url_flg = True #True or False
 ```
-=======
 
 ③処理完了後、csvが自動で開きます
 
 詳細は以下を参照して下さい
 https://github.com/meitekku/scraping/tree/master
->>>>>>> c571b74 (readme追加)
